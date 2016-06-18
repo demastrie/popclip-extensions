@@ -1,2 +1,2 @@
-# popclipext
-My PopClip Extensions
+# popclips-extension
+This project contains some PopClip extensions.
