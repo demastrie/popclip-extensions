@@ -1,7 +1,7 @@
-DEVONthink Pro (Office)
-=====================
+Curiota
+=======
 
-[DEVONthink Pro Office](http://www.devontechnologies.com/redirect.php?id=product-dt) extension for PopClip. Allows to add selected text to DEVONthink or search for the selected text in open DEVONthink databases.
+[Curiota](hhttps://www.zengobi.com/support/articles/Curiota.html) extension for PopClip. Add selected text to Curiota.
 
-
-(c) 2013 DEVONtechnologies LLC. Written by Eric Böhnisch-Volkmann, May 16, 2013.
+The MIT License (MIT)
+Copyright (c) 2016 Michael Demastrie 
